@@ -310,12 +310,16 @@ visualize_results(model, dataloader)
 
 #### Output1 - Login Page
 ![alt text](<img/Screenshot 2024-10-26 001155.png>)
+![1OUTPUT SAR](https://github.com/user-attachments/assets/61196477-425d-41a8-973c-10e25f1d7ccc)
+
 
 #### Output2 - Train the Model
+![2OUTPUT](https://github.com/user-attachments/assets/4ff62d57-25df-41c3-be7c-b4649324a099)
 
 #### Output2 - SAR Image Colorization
-Colorization Accuracy: 95.2%
+![3OUTPUT](https://github.com/user-attachments/assets/8e2becf4-7d94-4f8b-ac03-d415cc7753ee)
 
+Calculated MSE: 0.034
 
 ## Results and Impact
 
