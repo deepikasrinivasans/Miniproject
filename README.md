@@ -1,4 +1,4 @@
-## SAR Image Colorization for Comprehensive Insight using Deep Learning Model
+## Enhancing SAR Image Interpretability through Colorization using Deep Learning
 An innovative solution to colorize grayscale SAR images by creating a deep learning model that efficiently and accurately predicts colors from pairs of SAR and optical images, enhancing the usability of SAR data in fields like geological studies and environmental monitoring.
 
 
