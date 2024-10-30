@@ -23,7 +23,7 @@ Synthetic Aperture Radar (SAR) is a form of radar used to create images of objec
 * Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
 
 ## System Architecture
-![WhatsApp Image 2024-10-28 at 21 36 40](https://github.com/user-attachments/assets/cfa1d8d9-e9c2-44ff-88c9-432527d5a731)
+![image](https://github.com/user-attachments/assets/9a6ee044-c7d8-47d7-bb0a-4be9da3ce248)
 ## Source Code
 Login Form.html
 ```
